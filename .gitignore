@@ -13,7 +13,7 @@ VERSION.py
 .pytest_cache
 .mypy_cache
 cluster.yaml
-watt
+/watt
 /kubestatus
 kat_client
 teleproxy
