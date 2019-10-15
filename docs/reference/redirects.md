@@ -44,6 +44,7 @@ apiVersion: ambassador/v1
 kind: Module
 name: ambassador
 config:
+  use_remote_address: false
   x_forwarded_proto_redirect: true
 ```
 
